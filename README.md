@@ -1,7 +1,20 @@
 # CORS 프로젝트
+
+[✨ 프로젝트 소개](#-프로젝트-소개)
+<br/>
+[🐶 사전 준비물](#-사전-준비물)
+<br/>
+[🏄‍♂️ 사용법](#%EF%B8%8F-사용법)
+<br/>
+[⁉️ 주의사항](#%EF%B8%8F-주의사항)
+<br/>
+<br/>
+## ✨ 프로젝트 소개
 <img width=600 src="https://user-images.githubusercontent.com/93169519/178144417-7c8932ac-7e1e-4b59-97da-a8df92690624.png" />
 
 CORS 통신 테스트 프로젝트 입니다.
+<br/>
+간단한게 `GET`, `POST`, `PATCH`, `DELETE`를 통신 테스트 할 수 있도록 구성했습니다.
 
 <br/>
 
